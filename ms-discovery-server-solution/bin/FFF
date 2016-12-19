@@ -1,0 +1,170 @@
+[INFO] Scanning for projects...
+Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/build-helper-maven-plugin/1.10/build-helper-maven-plugin-1.10.pom
+3/6 KB   5/6 KB   6/6 KB            Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/mojo/build-helper-maven-plugin/1.10/build-helper-maven-plugin-1.10.pom (6 KB at 3.2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/build-helper-maven-plugin/1.10/build-helper-maven-plugin-1.10.jar
+3/50 KB   5/50 KB   8/50 KB   11/50 KB   13/50 KB   16/50 KB   19/50 KB   21/50 KB   24/50 KB   27/50 KB   29/50 KB   32/50 KB   36/50 KB   40/50 KB   44/50 KB   48/50 KB   50/50 KB              Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/mojo/build-helper-maven-plugin/1.10/build-helper-maven-plugin-1.10.jar (50 KB at 88.6 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.6.1/maven-clean-plugin-2.6.1.pom
+3/5 KB     5/5 KB   5/5 KB            Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.6.1/maven-clean-plugin-2.6.1.pom (5 KB at 17.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/26/maven-plugins-26.pom
+3/12 KB   5/12 KB   8/12 KB   11/12 KB   12/12 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/26/maven-plugins-26.pom (12 KB at 39.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.5.1/maven-site-plugin-3.5.1.pom
+3/18 KB    5/18 KB   8/18 KB   11/18 KB   13/18 KB   16/18 KB   18/18 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.5.1/maven-site-plugin-3.5.1.pom (18 KB at 61.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/jooq/jooq-codegen-maven/3.8.4/jooq-codegen-maven-3.8.4.pom
+3/3 KB     3/3 KB            Downloaded: https://repo.maven.apache.org/maven2/org/jooq/jooq-codegen-maven/3.8.4/jooq-codegen-maven-3.8.4.pom (3 KB at 10.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/jooq/jooq-parent/3.8.4/jooq-parent-3.8.4.pom
+3/10 KB   5/10 KB   8/10 KB   10/10 KB              Downloaded: https://repo.maven.apache.org/maven2/org/jooq/jooq-parent/3.8.4/jooq-parent-3.8.4.pom (10 KB at 33.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/jooq/jooq-codegen-maven/3.8.4/jooq-codegen-maven-3.8.4.jar
+3/15 KB    5/15 KB   8/15 KB   11/15 KB   13/15 KB   15/15 KB              Downloaded: https://repo.maven.apache.org/maven2/org/jooq/jooq-codegen-maven/3.8.4/jooq-codegen-maven-3.8.4.jar (15 KB at 50.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.pom
+3/4 KB     4/4 KB            Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.pom (4 KB at 11.4 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.jar
+3/36 KB   5/36 KB   8/36 KB   11/36 KB   13/36 KB   16/36 KB   19/36 KB   21/36 KB   24/36 KB   27/36 KB   29/36 KB   32/36 KB   35/36 KB   36/36 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.jar (36 KB at 122.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.6/maven-assembly-plugin-2.6.pom
+3/17 KB    5/17 KB   8/17 KB   11/17 KB   13/17 KB   16/17 KB   17/17 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.6/maven-assembly-plugin-2.6.pom (17 KB at 56.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.6/maven-assembly-plugin-2.6.jar
+3/240 KB   5/240 KB   8/240 KB   11/240 KB   13/240 KB   16/240 KB   19/240 KB   21/240 KB   24/240 KB   27/240 KB   29/240 KB   32/240 KB   36/240 KB   40/240 KB   44/240 KB   48/240 KB   52/240 KB   56/240 KB   60/240 KB   64/240 KB   68/240 KB   72/240 KB   76/240 KB   80/240 KB   84/240 KB   88/240 KB   92/240 KB   96/240 KB   100/240 KB   104/240 KB   108/240 KB   112/240 KB   116/240 KB   120/240 KB   124/240 KB   128/240 KB   132/240 KB   136/240 KB   140/240 KB   144/240 KB   148/240 KB   152/240 KB   156/240 KB   160/240 KB   164/240 KB   168/240 KB   172/240 KB   176/240 KB   180/240 KB   184/240 KB   188/240 KB   192/240 KB   196/240 KB   200/240 KB   204/240 KB   208/240 KB   212/240 KB   216/240 KB   220/240 KB   224/240 KB   228/240 KB   232/240 KB   236/240 KB   240/240 KB   240/240 KB                Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.6/maven-assembly-plugin-2.6.jar (240 KB at 424.6 KB/sec)
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building ms-discovery-server-solution 4.3.a.RELEASE
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.10:tree (default-cli) @ ms-discovery-server-solution ---
+[INFO] io.pivotal.education.core-spring:ms-discovery-server-solution:jar:4.3.a.RELEASE
+[INFO] +- org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.1.5.RELEASE:compile
+[INFO] |  +- org.springframework.cloud:spring-cloud-starter:jar:1.1.1.RELEASE:compile
+[INFO] |  |  +- org.springframework.cloud:spring-cloud-context:jar:1.1.1.RELEASE:compile
+[INFO] |  |  |  \- org.springframework.security:spring-security-crypto:jar:4.1.1.RELEASE:compile
+[INFO] |  |  +- org.springframework.cloud:spring-cloud-commons:jar:1.1.1.RELEASE:compile
+[INFO] |  |  \- org.springframework.security:spring-security-rsa:jar:1.0.1.RELEASE:compile
+[INFO] |  |     \- org.bouncycastle:bcpkix-jdk15on:jar:1.47:compile
+[INFO] |  |        \- org.bouncycastle:bcprov-jdk15on:jar:1.47:compile
+[INFO] |  +- org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.1.5.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-starter-web:jar:1.4.0.RELEASE:compile
+[INFO] |  |  |  +- org.springframework.boot:spring-boot-starter-tomcat:jar:1.4.0.RELEASE:compile
+[INFO] |  |  |  |  +- org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.4:compile
+[INFO] |  |  |  |  +- org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.4:compile
+[INFO] |  |  |  |  \- org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.4:compile
+[INFO] |  |  |  +- org.hibernate:hibernate-validator:jar:5.2.4.Final:compile
+[INFO] |  |  |  |  +- javax.validation:validation-api:jar:1.1.0.Final:compile
+[INFO] |  |  |  |  +- org.jboss.logging:jboss-logging:jar:3.3.0.Final:compile
+[INFO] |  |  |  |  \- com.fasterxml:classmate:jar:1.3.1:compile
+[INFO] |  |  |  +- org.springframework:spring-web:jar:4.3.2.RELEASE:compile
+[INFO] |  |  |  \- org.springframework:spring-webmvc:jar:4.3.2.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-starter-freemarker:jar:1.4.0.RELEASE:compile
+[INFO] |  |  |  +- org.freemarker:freemarker:jar:2.3.25-incubating:compile
+[INFO] |  |  |  \- org.springframework:spring-context-support:jar:4.3.2.RELEASE:compile
+[INFO] |  |  +- org.springframework.cloud:spring-cloud-netflix-core:jar:1.1.5.RELEASE:compile
+[INFO] |  |  +- org.springframework.cloud:spring-cloud-netflix-eureka-client:jar:1.1.5.RELEASE:compile
+[INFO] |  |  +- com.netflix.eureka:eureka-client:jar:1.4.10:compile
+[INFO] |  |  |  +- org.codehaus.jettison:jettison:jar:1.3.7:runtime
+[INFO] |  |  |  |  \- stax:stax-api:jar:1.0.1:runtime
+[INFO] |  |  |  +- com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0:runtime
+[INFO] |  |  |  +- javax.ws.rs:jsr311-api:jar:1.1.1:compile
+[INFO] |  |  |  +- com.netflix.servo:servo-core:jar:0.10.1:runtime
+[INFO] |  |  |  |  \- com.netflix.servo:servo-internal:jar:0.10.1:runtime
+[INFO] |  |  |  +- com.sun.jersey:jersey-core:jar:1.19.1:compile
+[INFO] |  |  |  +- com.sun.jersey:jersey-client:jar:1.19.1:runtime
+[INFO] |  |  |  +- com.sun.jersey.contribs:jersey-apache-client4:jar:1.19.1:runtime
+[INFO] |  |  |  +- org.apache.httpcomponents:httpclient:jar:4.5.2:runtime
+[INFO] |  |  |  |  +- org.apache.httpcomponents:httpcore:jar:4.4.5:runtime
+[INFO] |  |  |  |  \- commons-codec:commons-codec:jar:1.10:runtime
+[INFO] |  |  |  +- com.google.inject:guice:jar:4.0:runtime
+[INFO] |  |  |  |  \- aopalliance:aopalliance:jar:1.0:runtime
+[INFO] |  |  |  \- com.netflix.governator:governator-api:jar:1.12.10:runtime
+[INFO] |  |  +- com.sun.jersey:jersey-servlet:jar:1.19.1:compile
+[INFO] |  |  +- com.sun.jersey:jersey-server:jar:1.19.1:compile
+[INFO] |  |  +- com.netflix.eureka:eureka-core:jar:1.4.10:compile
+[INFO] |  |  |  +- com.amazonaws:aws-java-sdk-core:jar:1.10.30:runtime
+[INFO] |  |  |  +- com.amazonaws:aws-java-sdk-ec2:jar:1.10.30:runtime
+[INFO] |  |  |  +- com.amazonaws:aws-java-sdk-autoscaling:jar:1.9.3:runtime
+[INFO] |  |  |  +- com.amazonaws:aws-java-sdk-sts:jar:1.9.3:runtime
+[INFO] |  |  |  +- com.amazonaws:aws-java-sdk-route53:jar:1.9.3:runtime
+[INFO] |  |  |  +- com.netflix.governator:governator:jar:1.12.10:runtime
+[INFO] |  |  |  |  +- com.netflix.governator:governator-core:jar:1.12.10:runtime
+[INFO] |  |  |  |  \- org.ow2.asm:asm:jar:5.0.4:runtime
+[INFO] |  |  |  \- org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1:runtime
+[INFO] |  |  |     \- javax.xml.stream:stax-api:jar:1.0-2:runtime
+[INFO] |  |  +- com.netflix.archaius:archaius-core:jar:0.7.4:compile
+[INFO] |  |  |  \- com.google.code.findbugs:jsr305:jar:3.0.1:runtime
+[INFO] |  |  +- javax.inject:javax.inject:jar:1:compile
+[INFO] |  |  +- com.fasterxml.jackson.dataformat:jackson-dataformat-xml:jar:2.8.1:compile
+[INFO] |  |  |  +- com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.8.1:compile
+[INFO] |  |  |  +- org.codehaus.woodstox:stax2-api:jar:3.1.4:compile
+[INFO] |  |  |  \- com.fasterxml.woodstox:woodstox-core:jar:5.0.2:compile
+[INFO] |  |  \- com.thoughtworks.xstream:xstream:jar:1.4.2:compile
+[INFO] |  |     +- xmlpull:xmlpull:jar:1.1.3.1:compile
+[INFO] |  |     \- xpp3:xpp3_min:jar:1.1.4c:compile
+[INFO] |  +- org.springframework.cloud:spring-cloud-starter-archaius:jar:1.1.5.RELEASE:compile
+[INFO] |  |  +- commons-configuration:commons-configuration:jar:1.8:compile
+[INFO] |  |  |  +- commons-lang:commons-lang:jar:2.6:compile
+[INFO] |  |  |  \- commons-logging:commons-logging:jar:1.1.1:compile
+[INFO] |  |  +- com.fasterxml.jackson.core:jackson-annotations:jar:2.8.1:compile
+[INFO] |  |  +- com.fasterxml.jackson.core:jackson-core:jar:2.8.1:compile
+[INFO] |  |  +- com.fasterxml.jackson.core:jackson-databind:jar:2.8.1:compile
+[INFO] |  |  \- com.google.guava:guava:jar:18.0:compile
+[INFO] |  +- org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.1.5.RELEASE:compile
+[INFO] |  |  +- com.netflix.ribbon:ribbon:jar:2.2.0:compile
+[INFO] |  |  |  +- com.netflix.ribbon:ribbon-transport:jar:2.2.0:runtime
+[INFO] |  |  |  |  +- io.reactivex:rxnetty-contexts:jar:0.4.9:runtime
+[INFO] |  |  |  |  \- io.reactivex:rxnetty-servo:jar:0.4.9:runtime
+[INFO] |  |  |  +- com.netflix.hystrix:hystrix-core:jar:1.5.3:runtime
+[INFO] |  |  |  |  \- org.hdrhistogram:HdrHistogram:jar:2.1.7:runtime
+[INFO] |  |  |  \- io.reactivex:rxnetty:jar:0.4.9:runtime
+[INFO] |  |  |     +- io.netty:netty-codec-http:jar:4.0.27.Final:runtime
+[INFO] |  |  |     |  +- io.netty:netty-codec:jar:4.0.27.Final:runtime
+[INFO] |  |  |     |  \- io.netty:netty-handler:jar:4.0.27.Final:runtime
+[INFO] |  |  |     \- io.netty:netty-transport-native-epoll:jar:4.0.27.Final:runtime
+[INFO] |  |  |        +- io.netty:netty-common:jar:4.0.27.Final:runtime
+[INFO] |  |  |        +- io.netty:netty-buffer:jar:4.0.27.Final:runtime
+[INFO] |  |  |        \- io.netty:netty-transport:jar:4.0.27.Final:runtime
+[INFO] |  |  +- com.netflix.ribbon:ribbon-core:jar:2.2.0:compile
+[INFO] |  |  +- com.netflix.ribbon:ribbon-httpclient:jar:2.2.0:compile
+[INFO] |  |  |  +- commons-collections:commons-collections:jar:3.2.2:runtime
+[INFO] |  |  |  \- com.netflix.netflix-commons:netflix-commons-util:jar:0.1.1:runtime
+[INFO] |  |  +- com.netflix.ribbon:ribbon-loadbalancer:jar:2.2.0:compile
+[INFO] |  |  |  \- com.netflix.netflix-commons:netflix-statistics:jar:0.1.1:runtime
+[INFO] |  |  \- io.reactivex:rxjava:jar:1.1.5:compile
+[INFO] |  \- com.netflix.ribbon:ribbon-eureka:jar:2.2.0:compile
+[INFO] |     \- org.slf4j:slf4j-api:jar:1.7.21:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-actuator:jar:1.4.0.RELEASE:compile
+[INFO] |  \- org.springframework.boot:spring-boot-actuator:jar:1.4.0.RELEASE:compile
+[INFO] |     \- org.springframework:spring-context:jar:4.3.2.RELEASE:compile
+[INFO] |        +- org.springframework:spring-aop:jar:4.3.2.RELEASE:compile
+[INFO] |        \- org.springframework:spring-expression:jar:4.3.2.RELEASE:compile
+[INFO] +- org.springframework.boot:spring-boot-starter:jar:1.4.0.RELEASE:compile
+[INFO] |  +- org.springframework.boot:spring-boot:jar:1.4.0.RELEASE:compile
+[INFO] |  +- org.springframework.boot:spring-boot-autoconfigure:jar:1.4.0.RELEASE:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter-logging:jar:1.4.0.RELEASE:compile
+[INFO] |  |  +- ch.qos.logback:logback-classic:jar:1.1.7:compile
+[INFO] |  |  |  \- ch.qos.logback:logback-core:jar:1.1.7:compile
+[INFO] |  |  +- org.slf4j:jcl-over-slf4j:jar:1.7.21:compile
+[INFO] |  |  +- org.slf4j:jul-to-slf4j:jar:1.7.21:compile
+[INFO] |  |  \- org.slf4j:log4j-over-slf4j:jar:1.7.21:compile
+[INFO] |  +- org.springframework:spring-core:jar:4.3.2.RELEASE:compile
+[INFO] |  \- org.yaml:snakeyaml:jar:1.17:runtime
+[INFO] +- org.springframework.boot:spring-boot-starter-test:jar:1.4.0.RELEASE:test
+[INFO] |  +- org.springframework.boot:spring-boot-test:jar:1.4.0.RELEASE:test
+[INFO] |  +- org.springframework.boot:spring-boot-test-autoconfigure:jar:1.4.0.RELEASE:test
+[INFO] |  +- com.jayway.jsonpath:json-path:jar:2.2.0:test
+[INFO] |  |  \- net.minidev:json-smart:jar:2.2.1:test
+[INFO] |  |     \- net.minidev:accessors-smart:jar:1.1:test
+[INFO] |  +- junit:junit:jar:4.12:test
+[INFO] |  +- org.assertj:assertj-core:jar:2.5.0:test
+[INFO] |  +- org.mockito:mockito-core:jar:1.10.19:test
+[INFO] |  |  \- org.objenesis:objenesis:jar:2.1:test
+[INFO] |  +- org.hamcrest:hamcrest-core:jar:1.3:test
+[INFO] |  +- org.hamcrest:hamcrest-library:jar:1.3:test
+[INFO] |  +- org.skyscreamer:jsonassert:jar:1.3.0:test
+[INFO] |  |  \- org.json:json:jar:20140107:test
+[INFO] |  \- org.springframework:spring-test:jar:4.3.2.RELEASE:test
+[INFO] +- org.springframework:spring-jdbc:jar:4.3.2.RELEASE:compile
+[INFO] |  +- org.springframework:spring-beans:jar:4.3.2.RELEASE:compile
+[INFO] |  \- org.springframework:spring-tx:jar:4.3.2.RELEASE:compile
+[INFO] \- org.hsqldb:hsqldb:jar:2.3.3:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 7.388 s
+[INFO] Finished at: 2016-08-23T12:46:24+10:00
+[INFO] Final Memory: 28M/223M
+[INFO] ------------------------------------------------------------------------
